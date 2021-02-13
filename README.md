@@ -24,7 +24,8 @@ Task implemented in Jupyter Notebook using conda environment.
  ***Output:***
  
  <img src="GuestPurchasedCount.png">
-### 3.Find top 10% of purchased products according to productID.
+ 
+ ### 3.Find top 10% of purchased products according to productID.
     
  ### 4.Find daily Average Order Value (AOV).
     1.  Perform the calculation in aggregate query.
